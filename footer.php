@@ -13,7 +13,20 @@
 
         <!-- footer -->
         <footer>
-            
+            <div class=" bg-white footer-top">
+                <div class="container">
+                    <div class="row margin-four">
+                        <!-- phone -->
+                        <!-- end phone -->
+                        <!-- address -->
+                        <div class="col-md-6 col-sm-6 text-center"><i class="icon-map-pin small-icon black-text"></i><h6 class="black-text margin-two no-margin-bottom">Toronto, Canada</h6></div>
+                        <!-- end address -->
+                        <!-- email -->
+                        <div class="col-md-6 col-sm-6 text-center"><i class="icon-envelope small-icon black-text"></i><h6 class="margin-two no-margin-bottom"><a href="mailto:info@moonbeyond.com" class="black-text">info@moonbeyond.com</a></h6></div>
+                        <!-- end email -->
+                    </div>
+                </div>
+            </div>
             <div class="container footer-middle">
                 <div class="row">
                     <div class="col-md-3 col-sm-3 footer-link1 xs-display-none">
@@ -42,7 +55,7 @@
                         <!-- end headline -->
                         <!-- link -->
                         <ul>
-                            <li><a href="services.html">Web Development</a></li>
+                            <li><a href="services.html">Web Developmenteriffic</a></li>
                             <li><a href="services.html">Graphic Design</a></li>
                             <li><a href="services.html">Copywriting</a></li>
                             <li><a href="services.html">Online Marketing</a></li>
