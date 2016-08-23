@@ -56,7 +56,7 @@
                         <!-- link -->
                         <ul>
                             <li><a href="services.html">Web Developmenteriffic</a></li>
-                            <li><a href="services.html">Graphic Design</a></li>
+                            <li><a href="services.html">Graphic Designerizer</a></li>
                             <li><a href="services.html">Copywriting</a></li>
                             <li><a href="services.html">Online Marketing</a></li>
                         </ul>
